@@ -1,0 +1,4 @@
+#Fri Jun 22 19:58:00 KST 2018
+base.0=C\:\\Users\\HANSUNG\\Desktop\\f_2\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\unity-classes_e84e3b2b8fac810d515013791577aca079c63b6a
+renamed.0=classes.dex
+file.0=C\:\\Users\\HANSUNG\\Desktop\\f_2\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\unity-classes_e84e3b2b8fac810d515013791577aca079c63b6a\\classes.dex
